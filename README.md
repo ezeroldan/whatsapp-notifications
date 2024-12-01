@@ -1,2 +1,4 @@
-# whatsapp-notifications
-WwhatsApp Notifications with Symfony
+# WwhatsApp Notifications with Symfony
+```
+composer install
+```
